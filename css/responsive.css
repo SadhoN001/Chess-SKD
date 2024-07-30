@@ -34,9 +34,7 @@
         flex-direction: column;
     }
     .un-1{
-        /* background-image: url("./css-img/3d-fantasy-scene.jpg");
-        background-size: 630px;
-        background-position: center; */
+        
         margin-left: 60px;
         justify-content: center;
         flex-direction: column;
@@ -44,8 +42,7 @@
         
     }
     .un-2{
-        /* background-image: url("./css-img/a2.jpg");
-        background-size: 500px; */
+       
         margin-left: 60px;
         justify-content: center;
         flex-direction: column;
