@@ -81,9 +81,11 @@ body{
 /* end nav section */
 
 .chess-pic-in{
-   height: 1200px;
-   width: 1140px;
-   object-fit: cover;
+   /* height: 1200px;
+   width: 1145px; */
+   width: 100%;
+   justify-content: center;
+   /* object-fit: cover; */
    /* margin-bottom: 60px; */
    border: double 4px transparent;
    background-image: linear-gradient(white, white), radial-gradient(circle at top left,#e5d6c5, #443a3a);
