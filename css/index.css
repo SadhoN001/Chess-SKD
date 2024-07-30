@@ -247,7 +247,7 @@ body{
 
 /* start my section */
 .my{
-    background-image: url("/new/img/ft-bg.jpg");
+    background-image: url("../img/ft-bg.jpg");
     background-size: 100%;
   
 }
