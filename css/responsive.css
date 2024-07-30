@@ -1,0 +1,212 @@
+@media only screen and (max-width:760px){
+    
+    .pf{
+        /* height: 500px; */
+        justify-content: center;
+        flex-direction: column;
+        
+    }
+    .pf1{
+       justify-content: center;
+       flex-direction: column;
+       margin: 20px 20px;
+       height: 1000px;
+     
+    }
+    .pf2{
+        justify-content: center;
+        flex-direction: column;
+        height: 200px;
+        width: 200px;
+        margin-bottom: 100px;
+    }
+    .pf2 h1{
+        margin-top: 200px;
+        margin-left: 50px;
+        color: white;
+        justify-content: center;
+       flex-direction: column;
+       font-size: 35px;
+    }
+    .un-0{
+        margin-left: 60px;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .un-1{
+        /* background-image: url("./css-img/3d-fantasy-scene.jpg");
+        background-size: 630px;
+        background-position: center; */
+        margin-left: 60px;
+        justify-content: center;
+        flex-direction: column;
+        background-size: 400px;
+        
+    }
+    .un-2{
+        /* background-image: url("./css-img/a2.jpg");
+        background-size: 500px; */
+        margin-left: 60px;
+        justify-content: center;
+        flex-direction: column;
+        background-size: 300px;
+    }
+
+    /* upper section end */
+    .nav{
+        justify-content: center;
+        flex-direction: column;
+        margin-top: 600px;
+       
+    }
+    .nav p{
+        justify-content: center;
+        flex-direction: column;
+        margin: 10px 10px;
+        margin-left: 40px;
+        padding-left: 70px;
+        padding-top: 80px;
+        height: 130px;
+        width: 130px;
+        font-size: 40px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    /* end nav section */
+
+    .chess-pic-in{
+        justify-content: center;
+        flex-direction: column;
+        height: 350px;
+        width: 350px;
+        object-fit: cover;
+        
+    }
+    .chess-pic-in:hover{
+        /* transform: rotateY(180deg); */
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+    }
+    /* end chess pic */
+
+    .chees-guti{
+        background-image: linear-gradient(to right,black, red, black);
+        justify-content: center;
+        align-items: center;
+        margin-top: -20px;
+        height: 600px;
+    }
+    .king-queen{
+        justify-content: center;
+        flex-direction: column;
+        height: 100px;
+        width: 100px;
+        margin-left: 130px;
+        margin-bottom: -150px;
+        /* margin-top: -450px; */
+       
+      
+    }
+    .knights{
+        justify-content: center;
+        flex-direction: column;
+        height: 100px;
+        width: 100px;
+        margin-left: 70px;
+        margin-top: 120px;
+       
+    }
+    .knights1{
+        justify-content: center;
+        flex-direction: column;
+        height: 100px;
+        width: 100px;
+        margin-left: 190px;
+        margin-bottom: -45px;
+        padding-bottom: 20px;
+    }
+    
+    .bishops{
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        height: 100px;
+        width: 100px;
+        margin-left: 40px;
+        /* margin-top: 20px; */
+       
+       
+    }
+    .bishops1{
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        height: 100px;
+        width: 100px;
+        margin-left: 220px;
+        /* margin-top: -180px; */
+        padding-bottom: 20px;
+        padding-top: 20px;
+        
+    }
+    .rk{
+        margin-top: -80px;
+    }
+
+    .rook{
+        justify-content: center;
+        flex-direction: column;
+        height: 100px;
+        width: 100px;
+        margin-left: 5px;
+        margin-bottom: 20px;
+        padding-top: 180px;
+
+    }
+    .rook1{
+        justify-content: center;
+        flex-direction: column;
+        height: 100px;
+        width: 100px;
+        margin-left: 130px;
+        margin-top: -150px;
+        padding-bottom: 20px;
+      
+    }
+   
+    .pawn{
+        justify-content: center;
+        /* flex-direction: column; */
+       padding-right: 5px;
+      
+     }
+    .pn{
+        justify-content: center;
+        flex-direction: column;
+        height: 50px;
+        width: 40px;
+    }
+
+    /* footer   */
+
+
+    .my{
+        justify-content: center;
+        flex-direction: column;
+    
+    }
+    .skd{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .draku{
+        justify-content: center;
+        flex-direction: column;
+        margin-left: 130px;
+        margin-top: 20px;
+    }
+    .ft1{
+        width: 200px;
+    }
+    
+
+}
